@@ -11,7 +11,7 @@ What areas do you want to focus on?
 - Frontend / user-facing website
 - Mobile development
 - Backend development (CRUD, databases, web crawling?)
-- Bonus project: scraping from a Google sheets and print `_direst` files
+- Bonus project: scraping from a Google sheets and print `_digest` files
 
 Potential projects:
 - E-commerce shop
